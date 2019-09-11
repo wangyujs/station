@@ -1,0 +1,27 @@
+.main{width: 1256px;margin: 0 auto;}
+.main .main_one{width: 1177px;height:241px;padding-top:50px;padding-left: 79px;}
+.main .main_one .pic{width: 143px;height: 240px;float: left;text-align: center;margin-right: 94px;}
+.main_one .pic h3 a{display: block; font-size: 18px;height: 33px;line-height: 33px;color: #373737;}
+.main_one .pic p a{display: block; font-size: 11px;color: #848484;line-height: 25px;height: 25px;}
+.main .main_one .right{margin-right: 0px;}
+
+.main_two .top{width: 1243px;height: 239px;margin-left: 13px;}
+.main_two .top h4{color: #44a7e3;height: 20px;line-height: 20px;font-size: 18px;font-weight:normal;width: 82px;border-left:3px solid #44a7e3 ;margin-left:1px ;padding-left: 10px;}
+.main_two .top .box{width: 1243px;height: 210px;margin-top: 9px;position: relative;}
+.main_two .top .box img{width: 307px;height: 210px;}
+.main_two .top .box .img{height: 210px;float: left;margin-right: 5px;}
+.main_two .top .box .you{margin-right: 0;}
+.main_two .bot{margin-top: 48px;}
+.main_two .box .a{width: 307px;height: 32px;background-color: #535453;color: #fff;position: absolute;left:0;bottom: 0;line-height: 32px;text-align: center;font-size: 16px;}
+.main_two .box .b{width: 307px;height: 32px;background-color: #535453;color: #fff;position: absolute;left: 312px;bottom: 0;line-height: 32px;text-align: center;font-size: 16px;}
+.main_two .box .c{width: 307px;height: 32px;background-color: #535453;color: #fff;position: absolute;right:312px;bottom: 0;line-height: 32px;text-align: center;font-size: 16px;}
+.main_two .box .d{width: 307px;height: 32px;background-color: #535453;color: #fff;position: absolute;right:0;bottom: 0;line-height: 32px;text-align: center;font-size: 16px;}
+
+.main .main_three .last{width: 1242px;height: 106px;border: 1px solid #e4e4e4;margin-top: 40px;margin-left: 13px;}
+.main_three .last h4{color: #44a7e3;font-size: 16px;font-weight:normal;width: 82px;border-left:3px solid #44a7e3 ;margin-left:1px ;padding-left: 10px;height: 16px;line-height: 16px;margin:15px 0 10px 20px; }
+.main_three .last ul{width: 1196px;height: 50px;margin-left:20px ;}
+.main_three .last ul a{display: block; float: left;width: 287px;height: 25px;line-height: 25px;color:#555555 ;font-size: 12px;background:url(../images/index_main_03.jpg) no-repeat left center ;padding-left: 12px;}
+
+
+
+

@@ -1,0 +1,278 @@
+
+.page .banner{width: 730px;height: 454px;margin:12px 10px 0 10px;float: left;position: relative;}
+.banner .mod{display: none;}
+.banner ol .one{background: gold;}
+.banner ol li{float: left;margin: 10px 5px;border: 1px solid gold;padding: 3px;cursor: pointer;background: #fff;}
+.banner ol li:hover{background: gold;}
+.banner ol{position: absolute;right: 300px;bottom: 10px;}
+.banner .prevBtn,.nextBtn{ width: 40px; height:40px; line-height:35px; font-size:30px;color: #fff; text-align: center;background: #333; opacity:.4; top: 50%; margin-top:-20px;}
+.banner .prevBtn { left: 10px;position: absolute;top: 50%;left: 10px;}
+.banner .nextBtn { right: 10px;position: absolute;top: 50%; right: 10px;}
+
+.page .right{float: left;width: 250px;margin-top: 12px;}
+.page .right .news{width: 248px;height:163px;border: 1px solid #e4e4e4;}
+.page .right .news .title{height: 32px;line-height: 32px;border-bottom: 1px dotted #e8e8e7;padding:0 15px;}
+.page .right .news .title a{float: right;font-size: 12px;color: #666;}
+.page .right .news .title a:hover{color: #C81623;}
+.page .right .news .title h3{font-size: 16px;font-weight: normal;color: #666;}
+.page .right .news .ul1{margin: 5px 0 0 10px;}
+.page .right .news .ul1 li{height: 24px;line-height: 24px;}
+.page .right .news  li a{font-size: 12px;font-family: "宋体";}
+.page .right .news .ul1 span{font-weight: bold;}
+.page .right .icon{width: 248px;height: 208px;border:1px solid #e8e8e7;border-top:none;overflow: hidden;position: relative;}
+.page .right .icon_clone{width: 248px;height: 208px;border:1px solid #e8e8e7;border-top:none;overflow: hidden;position:absolute;top: 210px;left: 0;background:#fff;}
+.page .right .icon_clone .ul2 li{float: left;width: 62px;height: 25px;font-size: 12px;text-align: center;border-right: 1px solid #e8e8e8;height: 25px;line-height: 25px;border-bottom: 1px solid #e8e8e8;border-top: 2px solid #fff;}
+.page .right .icon_clone .ul2 .last{width:59px;border-right:none;}
+.page .right .icon_clone .ul2 .red{border-bottom: none;border-top: 2px solid red;}
+.page .right .icon_clone .close{position:absolute;top:25px;right: 5px;}
+.page .right .icon_clone .ul3 img{margin-top: 15px;}
+.page .right .icon_clone .hide{display: none;}
+
+.page .right .icon .ul1{width: 252px;}
+.page .right .icon .ul1 li{width: 62px;height: 30px;float: left;border-bottom: 1px solid #E8E8E7;border-right: 1px solid #E8E8E7;text-align: center;position: relative;padding-top: 40px;}
+.page .right .icon .ul1 a{color: #666;font-size: 12px;height: 30px;line-height: 30px;}
+.page .right .icon .ul1 a:hover{color: #C81623;}
+.page .right .icon .ul1 li i{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .a{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -27px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .b{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -52px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .c{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -77px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .d{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -101px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .e{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -126px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .f{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -151px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .g{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -175px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .h{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -252px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .j{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -202px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .k{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -277px;position: absolute;left: 18px;top:13px;}
+.page .right .icon .ul1 li .l{width: 25px;height: 25px;background:url(../images/57620a6fN77b2b8af.png) no-repeat 0 -227px;position: absolute;left: 18px;top:13px;}
+
+.main .center img:hover{margin-left: -1px;}
+.main .one .top{width: 1210px;line-height: 40px;height: 40px;}
+.main .one h4{float: left;width: 80px;color: #333;font-size: 18px;font-weight: normal;}
+.main .one .tu{width: 192px;height: 15px;background:url(../images/homebg.png) no-repeat 0 -102px;float: left;margin-top: 14px;}
+.main .one .top p{margin-top:13px; line-height:13px;float: right;height:17px;width: 61px; background:url(../images/homebg.png) no-repeat -310px -6px ;font-size: 12px;}
+.main .one .mid{width: 1210px;border: 1px solid #ededed;height: 231px;}
+.main .one .box{width: 200px;height: 222px;float: left;margin-top: 21px;}
+.main .bor .wenzi{border-right: 1px solid #e6e6e6;}
+.main .box .pic{width: 128px;height: 139px;margin-left: 37px;}
+.main .box .wenzi{height: 62px;font-size: 12px;margin-left: 36px;}
+.main .box p{width: 128px;height: 36px;}
+.main .box span{color: #C81623;font-size: 16px;margin-top: 5px;}
+.main .box span i{font-family:consolas;}
+.main .two h4{color: #333;height: 33px;line-height: 33px;margin-top: 23px;font-size: 18px;font-weight: normal;}
+.main .two .life{width: 1208px;height: 405px;border: 1px solid #E6E6E6;}
+.main .two .left{width: 1036px;height: 405px;border-right:1px solid #E6E6E6 ;background:#f7f7f7;float: left;}
+.main .left .fox{width: 403px;height: 246px;float: left;border-bottom:1px solid #E6E6E6;border-right:1px solid #E6E6E6;overflow: hidden;}
+.main .left .fox p{width: 363px;height: 40px;text-align: center;line-height: 40px;border-bottom:1px dashed #E6E6E6;margin-left: 20px;color: #333;font-weight: bold;font-size: 16px;}
+.main .left .fox{position: relative;}
+.main .left .fox .text{position: absolute;top:100px;left:45px;z-index: 1;width: 120px;font-size: 12px;}
+.main .left .fox .text h5{font-size:15px;height: 39px;line-height: 39px;}
+.main .left .fox .text span{display: block;height: 18x;line-height: 18px;}
+.main .left .fox .text em{display: block;height: 17px;height: 17px;font-style: normal;color: #C81623;}
+
+.main .left .center{width: 227px;height:246px;border-bottom: 1px solid #E6E6E6;float: left;position: relative;}
+.main .left .center .text{position: absolute;top:100px;left:11px;z-index: 1;width: 120px;font-size: 12px;}
+.main .left .center .text h5{font-size:15px;height: 39px;line-height: 39px;}
+.main .left .center .text span{display: block;height: 18px;line-height: 18px;}
+.main .left .center .text em{display: block;height: 17px;height: 17px;font-style: normal;color: #C81623;}
+
+.main .left .center p{width: 188px;height: 40px;text-align: center;line-height: 40px;border-bottom:1px dashed #E6E6E6;margin-left: 20px;color: #333;font-weight: bold;font-size: 16px;}
+.main .life .left .copy{float: right;border-left:1px solid #E6E6E6;} 
+.main .life .left .left_bot{width: 201px;height: 158px;border-right:1px solid #E6E6E6;float: left;position: relative;}
+.main .life .left .left_bot .text{position: absolute;left: 11px;top: 39px;font-size: 12px;}
+.main .left .left_bot .text h5{font-size:15px;height: 39px;line-height: 39px;}}
+.main .left .left_bot.text h5{font-size:15px;height: 39px;line-height: 39px;}
+.main .left .left_bot .text span{display: block;height: 18px;line-height: 18px;}
+.main .left .left_bot .text em{display: block;height: 17px;height: 17px;font-style: normal;color: #C81623;}
+
+.main .left .left_last{width: 227px;height: 158px;border-right: 1px solid #E6E6E6;float: left;position: relative;}
+.main .left .left_last .text{position: absolute;top:39px;left:11px;z-index: 1;width: 120px;font-size: 12px;}
+.main .left .left_last .text h5{font-size:15px;height: 39px;line-height: 39px;}
+.main .left .left_last .text span{display: block;height: 18px;line-height: 18px;}
+.main .left .left_last .text em{display: block;height: 17px;height: 17px;font-style: normal;color: #C81623;}
+.main .life .left .fff{background:#fff;}
+
+.main .life .icon{float:left;width: 171px;}
+.main .life .icon1{float:left;width: 85px;border-right:1px dashed #e0e0e0;margin-top: 13px;height: 381px;overflow: hidden;}
+.main .life .icon1 li{font-size:0;width: 74px;height: 57px;border-bottom:1px dashed #e0e0e0;margin-left: 11px;}
+.main .life .icon1 li a{display:block; width: 85px;text-align: center;margin-left:-11px;}
+.main .life .icon .rg{border-right:none;}
+.main .life .icon .rg li{margin-left: 0;}
+.main .life .icon .rg li a{margin-left: 0;}
+.main .life .icon ul{margin-top: -13px;}
+
+
+.page1 .pic{width: 1210px;height: 110px;margin-top: 20px;margin-bottom: 26px;}
+.page1 .pic .pic_a{float: left;font-size: 0;}
+
+.main .page1 .one{border-bottom: 1px solid #C81623;height: 40px;}
+.main .page1 .one span{color: #fff;font-size:14px;margin-right: 23px;}
+.main .page1 .one h3{float: left;height: 40px;line-height: 40px;font-size: 20px;font-weight:normal;background:url(../images/nva_bg.png) no-repeat 0 -29px;}
+.main .page1 .one ul{float: right;border: 1px solid #ededed;border-bottom: none;margin-top: 5px;}
+.main .page1 .one ul li{float: left;position: relative;border-left:1px solid #fff;border-right:1px solid #fff;border-top:3px solid #fff;height: 31px;line-height: 31px;}
+.main .page1 .one li i{width: 1px;height: 14px;background-color: #ccc;position: absolute;right:-2px;top:8px;z-index:1;}
+.main .page1 .one ul a{display: block; font-size: 12px;padding: 0 16px;}
+.main .page1 .one ul li:hover{border-color:#C81623;z-index: 2;margin-top:-1px;padding-top: 1px;}
+.main .page1 .one ul li:hover i{background-color: #fff;}
+.main .page1 .one ul li:hover a{height:32px;background-color: #fff;}
+.main .page1 .one ul .bh{border-color:#C81623 ; height: 31px;line-height: 31px;margin-top:-1px;padding-top: 1px;}
+.main .page1 .one ul .bh a{height:32px;background-color: #fff;}
+.main .page1 .one ul .bh i{display: none;}
+
+
+.main .page1 .contert{height: 710px;position: relative;}
+.main .page1 .b_two  li{position: absolute;top: 0;right: 0;}
+.main .page1 .b_two .hide{display: none;}
+.main .page1 .contert .top1{height: 633px;border-bottom:1px solid #ededed;margin-bottom: 10px;}
+.page1 .contert .top1 .left{float: left;width:330px;position:relative;}
+.page1 .contert .top1 .left .pg{width: 330px;height: 345px;overflow:hidden;}
+.page1 .contert .top1 .left .chatu{width: 305px;height: 92px;background-color: rgba(255,255,255,.4);position: absolute;top:254px;left: 0;padding-left: 25px;}
+.page1 .contert .top1 .left .chatu a{display: block;width: 68px;height: 25px;line-height: 25px;float: left;font-size: 14px;margin:10px 0;background:url(../images/clothesicon.png)no-repeat 0 0;padding-left: 32px;}
+.page1 .contert .top1 .left .chatu .aaa{background:url(../images/clothesicon.png)no-repeat 0 -26px;}
+.page1 .contert .top1 .left .chatu .bbb{background:url(../images/clothesicon.png)no-repeat 0 -52px;}
+.page1 .contert .top1 .left .chatu .ccc{background:url(../images/clothesicon.png)no-repeat 0 -78px;}
+.page1 .contert .top1 .left .chatu .ddd{background:url(../images/clothesicon.png)no-repeat 0 -104px;}
+.page1 .contert .top1 .left .chatu .eee{background:url(../images/clothesicon.png)no-repeat 0 -130px;}
+
+.page1 .contert .top1 .left .wen{height: 128px;background-color:#f5f5f5;}
+.page1 .contert .top1 .left .wen ul li{width:128px;height: 95px; float: left;padding: 17px 0 0 25px;}
+.contert .top1 .left .wen ul li a{color:#999;height:23px;line-height:23px;float:left;font-size:12px;padding-left:11px;}
+.contert .top1 .left .wen ul li .bianse{color: #C81623;}
+.contert .top1 .left .wen ul li a:hover{color: #C81623;}
+.contert .top1 .left .bld{border: 1px solid #f7f5ee; width: 328px; height: 158px;border-bottom: none;font-size: 0;}
+
+.page1 .contert .top1 .center {float: left;float: left;height: 633px;width: 439px;border-right: 1px solid #ededed;}
+.page1 .contert .top1 .center .top{height: 157px;border-bottom: 1px solid #ededed;}
+.page1 .contert .top1 .center .zhong{height: 315px;border-bottom: 1px solid #ededed;}
+
+.page1 .contert .top1 .right{float: left;}
+.page1 .contert .top1 .right ul{width: 219px;height: 633px;border-right: 1px solid #ededed;float: left;}
+.page1 .contert .top1 .right ul li{font-size: 0;border-bottom: 1px solid #ededed;}
+.page1 .contert .top1 .right ul .quxiao{border-bottom: none;}
+
+.main .page1 .brand{height: 66px;background:#f7f7f7;}
+.main .page1 .brand ul{height: 40px;padding:13px 0 ;}
+.main .page1 .brand ul li{width: 120px;height: 40px;border-right:1px dotted #cccccc;float:left;}
+.main .page1 .brand ul .quxiao{border-right:none;}
+
+.main .page2 .one{border-bottom: 1px solid #C81623;height: 40px;margin-top: 22px;}
+.main .page2 .one span{color: #fff;font-size:14px;margin-right: 23px;}
+.main .page2 .one h3{float: left;height: 40px;line-height: 40px;font-size: 20px;font-weight:normal;background:url(../images/nva_bg.png) no-repeat 0 -29px;}
+.main .page2 .one ul{float: right;border: 1px solid #ededed;border-bottom: none;margin-top: 5px;}
+.main .page2 .one ul li{float: left;position: relative;border-left:1px solid #fff;border-right:1px solid #fff;border-top:3px solid #fff;height: 31px;line-height: 31px;}
+.main .page2 .one li i{width: 1px;height: 14px;background-color: #ccc;position: absolute;right:-2px;top:8px;z-index:1;}
+.main .page2 .one ul a{display: block; font-size: 12px;padding: 0 16px;}
+.main .page2 .one ul li:hover{border-color:#C81623;z-index: 2;margin-top:-1px;padding-top: 1px;}
+.main .page2 .one ul li:hover i{background-color: #fff;}
+.main .page2 .one ul li:hover a{height:32px;background-color: #fff;}
+.main .page2 .one ul .bh{border-color:#C81623 ; height: 31px;line-height: 31px;margin-top:-1px;padding-top: 1px;}
+.main .page2 .one ul .bh a{height:32px;background-color: #fff;}
+.main .page2 .one ul .bconterth i{display: none;}
+
+.main .page2 .pg{width: 210px;height:329px;font-size:0;overflow: hidden;}
+.page2 .left{position: relative;float: left;}
+.page2 .left .chatu{width:200px;height: 92px;background-color: rgba(255,255,255,.4);position: absolute;top:237px;left:0;padding-left: 10px;}
+.page2 .left .chatu a{display: block;width: 64px;height:26px;line-height: 26px;font-size: 12px;float: left;margin: 10px 0;background:url(../images/cosmeticsicon.png)no-repeat;padding-left: 32px;}
+.main .page2 .contert .top1{height: 474px;margin-bottom: 10px;}
+.main .page2 .contert .top1 .wenzi{background:#e9f5fa;width: 185px;height: 123px;padding-top: 22px;padding-left: 25px;}
+.main .page2 .contert .top1 .wenzi h3{font-size: 14px;height: 24px;line-height: 24px;}
+.main .page2 .contert .top1 .wenzi .last a{font-size:12px;padding-right: 11px;margin-top: 6px;}
+.main .page2 .contert .top1 .wenzi .bian{color: #C81623;}
+.main .page2 .contert .center{width: 339px;height:473px ; border-right: 1px solid #ededed;border-bottom: 1px solid #ededed;float: left;}
+.main .page2 .contert .center .botto{height: 296px; border-bottom: 1px dotted #ededed;}
+
+.main .page2 .contert .right{float: left;width: 660px;}
+.main .page2 .contert .right .shang li{font-size:0;float: left;border-right:1px solid #ededed;border-bottom:1px solid #ededed;}
+.main .page2 .contert .right .xia li{font-size:0;float: left;border-right:1px solid #ededed;border-bottom:1px solid #ededed;}
+
+.main .page2 .brand{height: 66px;background:#f7f7f7;}
+.main .page2 .brand ul{height: 40px;padding:13px 0 ;}
+.main .page2 .brand ul li{width: 120px;height: 40px;border-right:1px dotted #cccccc;float:left;}
+.main .page2 .brand ul .quxiao{border-right:none;}
+
+.page3{margin-bottom: 21px;}
+.page3 .pic{width: 1210px;height: 110px;margin-top: 20px;margin-bottom: 26px;}
+.page3 .pic .pic_a{float: left;font-size: 0;}
+.main .page3 .one{border-bottom: 1px solid #C81623;height: 40px;}
+.main .page3 .one span{color: #fff;font-size:14px;margin-right: 23px;}
+.main .page3 .one h3{float: left;height: 40px;line-height: 40px;font-size: 20px;font-weight:normal;background:url(../images/nva_bg.png) no-repeat 0 -29px;}
+.main .page3 .one ul{float: right;border: 1px solid #ededed;border-bottom: none;margin-top: 5px;}
+.main .page3 .one ul li{float: left;position: relative;border-left:1px solid #fff;border-right:1px solid #fff;border-top:3px solid #fff;height: 31px;line-height: 31px;}
+.main .page3 .one li i{width: 1px;height: 14px;background-color: #ccc;position: absolute;right:-2px;top:8px;z-index:1;}
+.main .page3 .one ul a{display: block; font-size: 12px;padding: 0 16px;}
+.main .page3 .one ul li:hover{border-color:#C81623;z-index: 2;margin-top:-1px;padding-top: 1px;}
+.main .page3 .one ul li:hover i{background-color: #fff;}
+.main .page3 .one ul li:hover a{height:32px;background-color: #fff;}
+.main .page3 .one ul .bh{border-color:#C81623 ; height: 31px;line-height: 31px;margin-top:-1px;padding-top: 1px;}
+.main .page3 .one ul .bh a{height:32px;background-color: #fff;}
+.main .page3 .one ul .bh i{display: none;}
+
+.main .page3 .contert{height: 550px;}
+.main .page3 .contert .top1{height:474px;margin-bottom: 10px;}
+.page3 .contert .top1 .left{float: left;width:330px;position:relative;}
+.page3 .contert .top1 .left .pg{width: 330px;height: 283px;overflow:hidden;}
+.page3 .contert .top1 .left .chatu{width: 305px;height: 46px;background-color: rgba(255,255,255,.4);position: absolute;top:237px;left: 0;padding-left: 25px;}
+.page3 .contert .top1 .left .chatu a{display: block;width: 68px;height: 25px;line-height: 25px;float: left;font-size: 14px;margin:10px 0;background:url(../images/clothesicon.png)no-repeat 0 0;padding-left: 32px;}
+.page3 .contert .top1 .left .chatu .aaa{background:url(../images/clothesicon.png)no-repeat 0 -26px;}
+.page3 .contert .top1 .left .chatu .bbb{background:url(../images/clothesicon.png)no-repeat 0 -52px;}
+.page3 .contert .top1 .left .chatu .ccc{background:url(../images/clothesicon.png)no-repeat 0 -78px;}
+.page3 .contert .top1 .left .chatu .ddd{background:url(../images/clothesicon.png)no-repeat 0 -104px;}
+.page3 .contert .top1 .left .chatu .eee{background:url(../images/clothesicon.png)no-repeat 0 -130px;}
+
+.page3 .contert .top1 .left .wen{height: 169px;background-color:#f6e6fd;padding-top: 22px;}
+.page3 .contert .top1 .left .wen ul li{width:128px;height: 95px; float: left;padding: 10px 0 0 25px;}
+.page3 .contert .top1 .left .wen ul .gaibian{height: 24px;line-height: 24px;padding: 0 0 0 25px;}
+.contert .top1 .left .wen ul li a{color:#999;height:23px;line-height:23px;float:left;font-size:12px;padding-left:11px;}
+.contert .top1 .left .wen ul li .bianse{color: #C81623;}
+.contert .top1 .left .wen ul li a:hover{color: #C81623;}
+.contert .top1 .left .bld{border: 1px solid #f7f5ee; width: 328px; height: 158px;border-bottom: none;font-size: 0;}
+.page3 .contert .top1 .center{width: 439px;height:473px;float: left;border-right:1px solid #EDEDED;border-bottom:1px solid #EDEDED;}
+.page3 .contert .top1 .center a{font-size:0;float: left;}
+.page3 .contert .top1 .center .zhongjian{border-right:1px solid #EDEDED;}
+
+.page3 .contert .top1 .right{width: 440px;height: 474px;float: left;}
+.page3 .contert .top1 .right li{float: left;width: 219px;}
+.page3 .contert .top1 .right li{border-right:1px solid #EDEDED;border-bottom:1px solid #EDEDED;font-size: 0;}
+
+
+.main .page3 .brand{height: 66px;background:#f7f7f7;}
+.main .page3 .brand ul{height: 40px;padding:13px 0 ;}
+.main .page3 .brand ul li{width: 120px;height: 40px;border-right:1px dotted #cccccc;float:left;}
+.main .page3 .brand ul .quxiao{border-right:none;}
+
+.page6 .pic{width: 1210px;height: 110px;margin-top: 20px;margin-bottom: 26px;}
+.page6 .pic .pic_a{float: left;font-size: 0;}
+.main .page6 .one{border-bottom: 1px solid #C81623;height: 40px;}
+.main .page6 .one span{color: #fff;font-size:14px;margin-right: 23px;}
+.main .page6 .one h3{float: left;height: 40px;line-height: 40px;font-size: 20px;font-weight:normal;background:url(../images/nva_bg.png) no-repeat 0 -29px;}
+.main .page6 .one ul{float: right;border: 1px solid #ededed;border-bottom: none;margin-top: 5px;}
+.main .page6 .one ul li{float: left;position: relative;border-left:1px solid #fff;border-right:1px solid #fff;border-top:3px solid #fff;height: 31px;line-height: 31px;}
+.main .page6 .one li i{width: 1px;height: 14px;background-color: #ccc;position: absolute;right:-2px;top:8px;z-index:1;}
+.main .page6 .one ul a{display: block; font-size: 12px;padding: 0 16px;}
+.main .page6 .one ul li:hover{border-color:#C81623;z-index: 2;margin-top:-1px;padding-top: 1px;}
+.main .page6 .one ul li:hover i{background-color: #fff;}
+.main .page6 .one ul li:hover a{height:32px;background-color: #fff;}
+.main .page6 .one ul .bh{border-color:#C81623 ; height: 31px;line-height: 31px;margin-top:-1px;padding-top: 1px;}
+.main .page6 .one ul .bh a{height:32px;background-color: #fff;}
+.main .page6 .one ul .bh i{display: none;}
+
+.main .page6 .contert .top1{height:474px;margin-bottom: 10px;}
+.page6 .contert .top1 .left{float: left;width:210px;position:relative;}
+.page6 .contert .top1 .left .pg{width: 330px;height: 283px;overflow:hidden;}
+.page6 .contert .top1 .left .chatu{width: 305px;height: 46px;background-color: rgba(255,255,255,.4);position: absolute;top:237px;left: 0;padding-left: 25px;}
+.page6 .contert .top1 .left .chatu a{display: block;width: 68px;height: 25px;line-height: 25px;float: left;font-size: 14px;margin:10px 0;background:url(../images/clothesicon.png)no-repeat 0 0;padding-left: 32px;}
+.page6 .contert .top1 .left .wen{height: 169px;background-color:#e8f8fb;padding-top: 22px;}
+.page6 .contert .top1 .left .wen ul li{width:128px;height: 95px; float: left;padding: 10px 0 0 25px;}
+.page6 .contert .top1 .left .wen ul .gaibian{height: 24px;line-height: 24px;padding: 0 0 0 25px;}
+.contert .top1 .left .wen ul li a{color:#999;height:23px;line-height:23px;float:left;font-size:12px;padding-left:11px;}
+.contert .top1 .left .wen ul li .bianse{color: #C81623;}
+.contert .top1 .left .wen ul li a:hover{color: #C81623;}
+.contert .top1 .right .shang a{float: left;font-size: 0;border-bottom: 1px solid #EDEDED;}
+.contert .top1 .right .shang .biang{border-right:1px solid #EDEDED;border-left:1px solid #EDEDED;}
+
+
+
+
+.main .page6 .brand{height: 66px;background:#f7f7f7;}
+.main .page6 .brand ul{height: 40px;padding:13px 0 ;}
+.main .page6 .brand ul li{width: 120px;height: 40px;border-right:1px dotted #cccccc;float:left;}
+.main .page6 .brand ul .quxiao{border-right:none;}

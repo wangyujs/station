@@ -1,0 +1,35 @@
+.main{width: 100%;height: 1206px;border-top:1px solid #ececec ;}
+.main .inner{width: 1256px;height: 1206px;margin: 0 auto;}
+.main .inner h3{width: 132px;height: 59px;line-height: 59px;border-bottom:3px solid #44a7e3 ;text-align: center;color: #4b4b4b;font-size: 32px;font-weight:normal;margin: 62px 0 0 569px;}
+.main .inner .center{width: 1244px;height: 1082px;border-top:1px solid #ececec;border-bottom:1px solid #ececec;margin-left: 12px;}
+.main .inner .center h5{height: 35px;line-height: 48px;text-align: center;font-weight:normal ;font-size: 15px;color: #000000;padding-bottom: 13px;}
+.main .inner .center .left{width: 924px;height: 1034px;float: left;}
+.inner .center .left .one{width:924px;height: 202px;border-bottom: 1px solid #ececec;}
+.inner .center .left .one .img{height: 129px;float: left;margin: 34px 69px 0 26px;}
+.center .left .one .wenzi{width: 625px;height: 202px;float: right;}
+.center .left .one h4{color:#333333;font-size: 20px;height: 34px;line-height: 34px;margin-top: 25px;}
+.center .left .one p{height: 27px;line-height: 27px;font-size: 16px;color: #939393;}
+.center .left .one .aa{margin-top: 59px;background:url(../images/main_left_03.jpg) no-repeat 130px center ;}
+.center .left .one .aa a{margin-left: 22px;color: #4e74c0;}
+.inner .center .left .two{width:924px;height: 202px;border-bottom: 1px solid #ececec;}
+.inner .center .left .two .img{height: 129px;float: left;margin: 34px 69px 0 26px;}
+.center .left .two .wenzi{width: 625px;height: 202px;float: right;}
+.center .left .two h4{color:#333333;font-size: 20px;height: 34px;line-height: 34px;margin-top: 25px;}
+.center .left .two{height: 27px;line-height: 27px;font-size: 16px;color: #939393;}
+.center .left .two .aa{margin-top: 59px;}
+.inner .center .left ul{width: 235px;height: 122px;line-height: 122px;font-size: 12px;margin-left: 504px;}
+.inner .center .left ul a{float: left;color: #000;}
+.inner .center .left ul .a{margin-right: 23px;color: #999999;}
+.inner .center .left ul .b{margin-right: 27px;}
+.inner .center .left ul .c{margin-right: 22px;}
+.inner .center .left ul .yan{color: #358bcb;}
+.inner .center .left ul a:hover{color:#358bcb;}
+
+.inner .center .right{width: 260px;height: 382px;float: right;}
+.inner .center .right h4{height: 56px;line-height: 56px;font-size: 14px;color: #000;font-weight:normal ;}
+.inner .center .right .ul a{width:234px; color: #000;font-size: 14px;display: block;height: 47px;line-height: 47px;border-top:1px solid #e1e1e1 ;background:url(../images/main_right_03.jpg) no-repeat left center;padding-left: 26px;}
+.inner .center .right .ul a:hover{color:#358bcb;}
+.inner .center .right .ul .last_a{color:#358bcb;}
+.inner .center .right .uul{width: 260px;height: 64px;border-top:1px solid #e1e1e1 ;}
+.inner .center .right .uul a{float: left;display: block;height: 64px;line-height: 64px;padding-right: 35px;font-size: 12px;color: #000;}
+.inner .center .right .uul .ll{padding-left: 10px;}

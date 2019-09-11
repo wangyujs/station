@@ -1,0 +1,55 @@
+*{margin: 0;padding: 0;}
+h1,h2,h3,h4,h5,{color: #333;}
+ul,ol{list-style: none;}
+a{text-decoration: none;color:#666666;}
+body a:hover{color:#c81623;}
+img,input,select{border: none;}
+
+body{font-family: arial,"微软雅黑","宋体";}
+i{font-style:normal ;}
+.clear:after{content:"200B";height:0;clear: both;display: block;font-size:0;}
+
+
+.header .top{height: 30px;background: #f1f1f1;height: 30px;line-height: 30px;}
+.inner{width: 1210px;margin: 0 auto;}
+.top .map{float: left;font-size: 12px;}
+.top ul{float: right;}
+.top ul li{float: left;height: 30px;line-height: 30px;}
+.header .top .line{background:#dddddd;width: 1px;margin-top: 9px;height: 12px;}
+.header .top  a{font-family: "宋体";font-size: 12px;padding: 0 10px;vertical-align:middle;}
+.header .top span{margin-left: 9px;width: 10px;height: 5px;overflow:hidden;display:inline-block;line-height: 0;vertical-align:middle;}
+.header .top .color{color: #c81623;padding-left: 0;}
+.header .top .color1{padding-right: 6px;}
+.header .top ul i{width:15px;height: 20px; background:url(../images/jd2015img.png)no-repeat;display: inline-block;margin:5px 3px 0 0;vertical-align:top;}
+.header .top ul .hover:hover i{background:url(../images/jd2015img.png) no-repeat 0 -25px;}
+.header .top .hover:hover{background-color: #fff;}
+
+
+.middle{padding-bottom:11px;}
+.middle .logo{width: 270px;height: 60px;float: left;padding-top: 20px;}
+.middle form{height: 36px;}
+.middle .form{margin: 25px 0 0 92px;float: left;}
+.middle .text{width: 449px;height: 32px;border: 2px solid #b61d1d;color: #666666;padding-left: 5px;line-height: 32px;float: left;}
+.middle .sub{background: #b61d1d;color: #fff;line-height: 36px;height: 36px;float: left;width: 82px;height: 36px;font-size: 16px;}
+.middle .obj a{display:block; font-size: 12px;height: 28px;line-height: 28px;margin-right: 11px;float: left;}
+.middle .obj .one{color: #C81623;}
+
+.middle .buy{width: 95px;height:34px;border: 1px solid #C81623;float: right;margin: 25px 65px 0 0;line-height: 34px;font-family: "宋体";font-size: 12px;background: #f9f9f9 url(../images/jd2015img.png) no-repeat 18px -49px;padding-left: 44px;position: relative;}
+.middle .buy i{font-family:consolas ;}
+.middle .buy .num{height: 14px;border-radius:6px 6px 6px 0;background-color: #C81623;color: #fff;position: absolute;top:-4px;left: 104px;font-size: 12px;;line-height: 14px;padding: 0 5px;}
+
+.header .bot{border-bottom: 2px solid #b1191a;;}
+.bot p{float: left;line-height: 44px;background: #b1191a;width: 200px;color: #fff;padding-left: 10px;height: 44px;}
+.bot p span{margin-left: 86px;}
+.bot li{float: left;height: 44px;line-height: 44px;font-size:16px;}
+.bot li a{color:#333;margin-right: 40px;}
+.bot li a:hover{color: #C81623;}
+.bot li .a{margin-left:20px;}
+
+
+.zhiding{width:35px;height: 100%;position: fixed;top: 0;right: 0;}
+.zhiding .bianlan{width: 6px;height: 100%;background: #7a6e6e;position: fixed;top: 0;right: 0;}
+.zhiding .ul1{position: fixed;top:30%;right:6px;}
+.zhiding ul a{display: block;width: 29px;height: 35px;margin-top: 1px;}
+.zhiding .ul2{position: fixed;bottom:0 ;right: 6px;}
+.zhiding a:hover{background: red;}
